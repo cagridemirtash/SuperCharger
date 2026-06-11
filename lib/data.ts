@@ -4,11 +4,11 @@ export const siteConfig = {
   title: "System & Network Engineer | DevOps Enthusiast",
   description:
     "Son kullanıcı desteğinden sistem ve network mühendisliğine uzanan yolculuğumda; altyapı, otomasyon, CI/CD, servis mimarileri ve modern web teknolojileri üzerine kendimi sürekli geliştiren bir teknoloji profesyoneliyim.",
-  url: "https://supercharger.dev", // TODO: Deploy sonrası gerçek domain ile güncelle
+  url: "https://supercharger-smoky.vercel.app",
   location: "Adana, Türkiye",
   linkedin: "https://www.linkedin.com/in/hanificagridemirtas/",
   github: "https://github.com/cagridemirtash",
-  email: "your.email@example.com", // TODO: Gerçek e-posta adresi ile güncelle
+  email: "cagridemirtash@gmail.com", // TODO: Gerçek e-posta adresi ile güncelle
 };
 
 export const navLinks = [
